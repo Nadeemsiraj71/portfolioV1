@@ -2,14 +2,6 @@
 
 A premium, modern, and fully responsive personal portfolio website designed for an IT Infrastructure & Desktop Support professional.
 
-## Updates
-
-- Added the new headshot `Portfolio.png` to the About Section.
-- Re-assigned testimonial names as requested:
-    - **John Doe** replaced with **Sapan Chaudhary**.
-    - **Jane Smith** replaced with **Rajan Verma**.
-- Added original university name: "Swami Vivekanand Subharti University" for both MBA and BCA degrees in the Education section.
-
 ## File Structure
 
 ```text
